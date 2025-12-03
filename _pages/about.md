@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Comparative Physiology & Biomechanics at <a href='www.psu.edu'>Penn State University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: small_roach_800x553.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
