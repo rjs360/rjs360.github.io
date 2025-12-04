@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Comparative Physiology & Biomechanics at <a href='https://www.psu.edu'>Penn State University</a>
+subtitle: Comparative Physiology & Biomechanics of Insect Locomotion
 
 profile:
   align: right
