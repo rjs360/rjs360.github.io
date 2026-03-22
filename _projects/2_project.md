@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: energetics
 description: a project with a background image and giscus comments
 img: assets/img/bbee_hive_thermal_small.jpg
 importance: 2

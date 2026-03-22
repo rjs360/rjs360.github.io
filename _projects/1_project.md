@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: mechanics
 description: with background image
 img: assets/img/monarch_sequence_small.jpg
 importance: 1
