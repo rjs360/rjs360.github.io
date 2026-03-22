@@ -1,10 +1,10 @@
 ---
 layout: page
-title: plasticity
+title: molecular biology
 description: another without an image
 img:
 importance: 3
-category: work
+category: categories
 ---
 
 Every project has a beautiful feature showcase page.

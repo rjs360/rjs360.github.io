@@ -4,7 +4,7 @@ title: mechanics
 description: with background image
 img: assets/img/monarch_sequence_small.jpg
 importance: 1
-category: work
+category: categories
 related_publications: true
 ---
 
