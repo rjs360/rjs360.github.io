@@ -1,8 +1,8 @@
 ---
 layout: page
-title: molecular biology
-description: another without an image
-img:
+title: molecular physiology
+description: another with an image
+img: assets/img/1.jpg
 importance: 3
 category: categories
 ---
