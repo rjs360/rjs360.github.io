@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mechanics
-description: with background image
+description: 
 img: assets/img/monarch_sequence_small.jpg
 importance: 1
 category: categories

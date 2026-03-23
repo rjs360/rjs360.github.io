@@ -1,7 +1,7 @@
 ---
 layout: page
 title: other
-description: a project with a background image
+description:
 img: assets/img/1.jpg
 importance: 5
 category: categories

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: energetics
-description: a project with a background image and giscus comments
+description: 
 img: assets/img/bbee_hive_thermal_small.jpg
 importance: 2
 category: categories

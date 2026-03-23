@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pathogens
-description: another with an image
+description:
 img: assets/img/1.jpg
 importance: 4
 category: categories
