@@ -10,9 +10,9 @@ related_publications: true
 
 Maximum force output by single muscles scales as body mass<sup>0.67</sup>. One consequence of this is that as (geometrically similar) animal body size increases occur, animal weight may outpace maximum muscle force production capacity. Yet, maximum performance of whole animals scales as body mass<sup>1.0</sup>. How do animals achieve this? 
 
-{% comment %} The maximum force exerted by a muscle is generally considered to be determined by its cross-sectional area, i.e., the number of actomyosin cross-bridges working in parallel. Based on this it is generally expected that locomotion of animals of increasing body size requires adjustments to muscle (mass-specific) performance, relative muscle investment and/or musculoskeletal posture, to facilitate appropriate body weight support across a body size range. 
+<!-- The maximum force exerted by a muscle is generally considered to be determined by its cross-sectional area, i.e., the number of actomyosin cross-bridges working in parallel. Based on this it is generally expected that locomotion of animals of increasing body size requires adjustments to muscle (mass-specific) performance, relative muscle investment and/or musculoskeletal posture, to facilitate appropriate body weight support across a body size range. 
 
-Muscles rarely exert their forces directly on the environment and use lever systems whose associated mechanical advantage can enhance or reduce the forces required by muscles. Moreover, few musculoskeletal systems move animals using their maximum capacity for generating forces. Force output (needs) by intact musculoskeletal systems may be quite different than that of individual muscles, and the scaling of this force output may differ markedly from mass0.67, especially during locomotion. {% uncomment %}
+Muscles rarely exert their forces directly on the environment and use lever systems whose associated mechanical advantage can enhance or reduce the forces required by muscles. Moreover, few musculoskeletal systems move animals using their maximum capacity for generating forces. Force output (needs) by intact musculoskeletal systems may be quite different than that of individual muscles, and the scaling of this force output may differ markedly from mass0.67, especially during locomotion. -->
 
 
 
