@@ -5,7 +5,7 @@ description: with background image
 img: assets/img/monarch_sequence_small.jpg
 importance: 1
 category: categories
-related_publications: true
+related_publications: false
 ---
 
 Maximum force output by single muscles scales as body mass<sup>0.67</sup>. One consequence of this is that as (geometrically similar) animal body size increases occur, animal weight may outpace maximum muscle force production capacity. Yet, maximum performance of whole animals scales as body mass<sup>1.0</sup>. How do animals achieve this? 
