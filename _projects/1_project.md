@@ -18,7 +18,7 @@ Muscles rarely exert their forces directly on the environment and use lever syst
 
 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<!--To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
@@ -26,7 +26,7 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
-
+-->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -38,6 +38,13 @@ To give your project a background in the portfolio page, just add the img tag to
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<strong>Body weight sensation.</strong> A long term goal of the lab is to determine if/how animals know at a physiological level how much they weigh, and, if so, how they make homeostatic adjustments in response to changes in body weight. Skeletal muscle is a likely source tissue for this type of plasticity as well as for the location of required sensors, as weight-bearing muscles receive mechanical feedback regarding body weight and consume ATP in order to generate forces sufficient to (at least) counteract gravity.
+
+We know that skeletal muscle can respond to increased and decreased load by hypertrophy and atrophy, but the molecular and biochemical mechanisms that muscles use to sense and adjust to changes in body weight are poorly understood. We focus our work in this area on the regulation of expression of sarcomere genes encoding proteins that function at the interface between thin and thick filaments. Specifically, we work on mechanisms controlling expression of the troponin complex, and within that, of troponin T. These thin filament regulatory proteins play a large role in regulating muscle force output and energy consumption by controlling the calcium sensitivity of actomyosin cross-bridge activation. The troponin T gene is alternatively spliced and gives rise to several splice variants that differ in way they encode troponin T proteins.
+
+We have made some progress examining mechanisms involved in body weight sensation in rodents (see <a href="https://pubmed.ncbi.nlm.nih.gov/21490260/">here</a>), fruit flies (see <a hfref="https://pubmed.ncbi.nlm.nih.gov/28978639/">here</a>) and are currently extending this project using cockroaches as the study system.
+
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
