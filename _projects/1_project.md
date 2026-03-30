@@ -29,14 +29,14 @@ Muscles rarely exert their forces directly on the environment and use lever syst
 -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dfly_scaling_figures.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <!--<div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+    </div>-->
 </div>
 
 <strong>Body weight sensation.</strong> A long term goal of the lab is to determine if/how animals know at a physiological level how much they weigh, and, if so, how they make homeostatic adjustments in response to changes in body weight. Skeletal muscle is a likely source tissue for this type of plasticity as well as for the location of required sensors, as weight-bearing muscles receive mechanical feedback regarding body weight and consume ATP in order to generate forces sufficient to (at least) counteract gravity.
