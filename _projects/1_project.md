@@ -12,11 +12,6 @@ related_publications: false
 
 We have previously examined this question in flying dragonflies (<a href="https://pubmed.ncbi.nlm.nih.gov/14747409/">here</a>), but they are not the only organisms that transmit force output by single muscles via musculoskeletal linkages (tendons and other skeletal components). Internal musculoskeletal dynamics and force distribution mechanisms inside animals are often unknown or at best understudied. We continue to investigate such mechanisms and dynamics in different types of animal motors, for one to establish to what extent the dragonfly “solution” to unequal scaling of single muscle force output and body weight support requirements is unique or more general among animals.
 
-<!-- The maximum force exerted by a muscle is generally considered to be determined by its cross-sectional area, i.e., the number of actomyosin cross-bridges working in parallel. Based on this it is generally expected that locomotion of animals of increasing body size requires adjustments to muscle (mass-specific) performance, relative muscle investment and/or musculoskeletal posture, to facilitate appropriate body weight support across a body size range. 
-
-Muscles rarely exert their forces directly on the environment and use lever systems whose associated mechanical advantage can enhance or reduce the forces required by muscles. Moreover, few musculoskeletal systems move animals using their maximum capacity for generating forces. Force output (needs) by intact musculoskeletal systems may be quite different than that of individual muscles, and the scaling of this force output may differ markedly from mass0.67, especially during locomotion. -->
-
-
 
 <!--To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -47,6 +42,9 @@ We have made some progress examining mechanisms involved in body weight sensatio
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/hyperdrive.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dinner_for_three_small.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
