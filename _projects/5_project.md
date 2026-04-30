@@ -2,7 +2,7 @@
 layout: page
 title: other
 description:
-img: assets/img/1.jpg
+img: assets/img/moth_project.jpg
 importance: 5
 category: categories
 ---
