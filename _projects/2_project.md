@@ -2,7 +2,7 @@
 layout: page
 title: energetics
 description: 
-img: assets/img/bbee_hive_thermal_small.jpg
+img: assets/img/IMG_3138.jpg
 importance: 2
 category: categories
 giscus_comments: true
