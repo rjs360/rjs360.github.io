@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pathogens
+title: stressors
 description:
 img: assets/img/1.jpg
 importance: 4

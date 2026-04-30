@@ -29,7 +29,7 @@ We have previously examined this question in flying dragonflies (<a href="https:
 </div>
 
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Dragonfly musculoskeletal systems
 </div>
 
 <strong>Body weight sensation.</strong> A long term goal of the lab is to determine if/how animals know at a physiological level how much they weigh, and, if so, how they make homeostatic adjustments in response to changes in body weight. Skeletal muscle is a likely source tissue for this type of plasticity as well as for the location of required sensors, as weight-bearing muscles receive mechanical feedback regarding body weight and consume ATP in order to generate forces sufficient to (at least) counteract gravity.
