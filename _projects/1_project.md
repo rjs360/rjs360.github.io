@@ -48,7 +48,7 @@ We have made some progress examining mechanisms involved in body weight sensatio
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Ways to increase loads on insect musculoskeletal systems.
 </div>
 
 
