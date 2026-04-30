@@ -40,13 +40,11 @@ We have made some progress examining mechanisms involved in body weight sensatio
 
 
 <div class="row">
-    <!--<div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hyperdrive.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>-->
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/laden_roaches.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
     Manipulation of load experienced by insect musculoskeletal systems.
 </div>
