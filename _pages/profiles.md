@@ -18,7 +18,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
+    image: be_picture.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -34,13 +34,55 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
+    image: jules_final.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
+  - align: left
+    image: laura_jones.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: staci_cibotti.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: ChingWenTan.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: nick_ivers.jpeg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+
+  - align: left
+    image: alejandro_final.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
@@ -49,6 +91,7 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
+
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
@@ -57,6 +100,7 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
+
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
@@ -65,6 +109,34 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
+
+  - align: left
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+
+  - align: left
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+
+  - align: left
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
