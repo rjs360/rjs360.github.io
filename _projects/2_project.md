@@ -5,7 +5,7 @@ description:
 img: assets/img/test_IMG_3138.jpg
 importance: 2
 category: categories
-giscus_comments: true
+giscus_comments: false
 ---
 <!--
 Every project has a beautiful feature showcase page.
