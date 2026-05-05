@@ -15,5 +15,8 @@ We have discovered that one environmental factor is parasitic infection. Dragonf
         {% include figure.liquid loading="eager" path="assets/img/pulchella_parasite_stages_latest.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    12-spotted skimmer (<em>Libellula pulchella</em>) and various gregarine parasite life stages
+</div>
 
 Infected dragonflies typically show no obvious external symptoms but perform poorly in territorial contests in the field and therefore have low mating success. Since these traits are mainly determined by flight performance, we previously examined how gregarine infection affects aspects of flight muscle physiology and metabolism in these dragonflies. We showed that gregarine infection impairs flight muscle energetics and causes a loss of endocrine control of carbohydrate metabolism and significant lipid accumulation. Together these features comprise a set of symptoms associated with what in vertebrates is known as the metabolic syndrome but had not previously been described in other animal taxa. We also showed that muscle contractile phenotypes associated with parasitic infection in dragonflies are highly similar to those of obese mammals, and are currently using other insect systems to explore the generality of our findings in dragonflies.
