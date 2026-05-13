@@ -26,7 +26,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       
-  - align: left
+  - align: right
     image: jules_final.jpg
     content: about_jules.md
     image_circular: false # crops the image to make it circular
@@ -37,7 +37,7 @@ profiles:
     more_info: >
       <p>Former lab members</p> 
 
-  - align: right
+  - align: left
     image: nick_ivers.jpeg
     content: about_person_X.md
     image_circular: false # crops the image to make it circular
