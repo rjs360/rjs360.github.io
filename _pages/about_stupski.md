@@ -1,1 +1,1 @@
-generic description
+**S. David Stupski (Graduate student in Biology)** - David was our lab's first PhD student! He received his PhD in 2020, after which he did a postdoc with Dr. Floris van Breugel at the University of Nevada, Reno. Davis is currently a postdoctoral scholar in the lab of Jeffrey Riffell at the University of Washington.
