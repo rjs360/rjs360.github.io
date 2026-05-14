@@ -50,13 +50,13 @@ profiles:
     more_info: >
       
   - align: left
-    image: staci_cibotti.jpg
+    image: staci_new.jpg
     content: about_person_X.md
     image_circular: false # crops the image to make it circular
     more_info: >
       
   - align: right
-    image: ChingWenTan.jpg
+    image: ChingWenTan.jpeg
     content: about_person_X.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -68,7 +68,7 @@ profiles:
     more_info: >
 
   - align: left
-    image: david.PNG
+    image: david.jpg
     content: about_stupksi.md
     image_circular: false # crops the image to make it circular
     more_info: >
