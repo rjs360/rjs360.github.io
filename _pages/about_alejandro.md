@@ -1,1 +1,1 @@
-generic description
+**Alejandro Medina Valencia (Graduate student in Ecology)** - Alejandro received his B.S. in Biology from Iowa State University in 2022. His previous undergrad research focused on the operative temperature of different species of bumblebees and how they were impacted by their coloration and caste. In 2022 Alejandro joined the Ecology PhD program at Penn State University under Dr. Margarita Lopez-Uribe and Dr. Ruud Schilder, and received his MSc in 2024.
