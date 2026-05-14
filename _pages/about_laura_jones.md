@@ -1,0 +1,1 @@
+**Laura Jones** - Laura was an NSF graduate research fellow and PhD candidate in Penn State's Ecology Program, co-advised by Drs. Margarita Lopez-Uribe and Ruud Schilder. She received her PhD in 2023. Laura is currently a postdoctoral scholar in the lab of Dr. Shalene Jha at the University of Texas, Austin.

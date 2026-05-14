@@ -1,0 +1,1 @@
+**David Stupski** - David started his PhD studies in 2015, and received his PhD in Biology in 2020. David subsequently was a postdoc in the lab of Dr. Floris van Breugel at the University of Nevada, Reno, and is currently a postdoctoral scholar in the lab of Dr. Jeffrey Riffell at the University of Washington (<url=https://riffelllab.org/>link</url>).

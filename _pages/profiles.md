@@ -39,13 +39,13 @@ profiles:
 
   - align: left
     image: nick_ivers.jpeg
-    content: about_person_X.md
+    content: about_ivers.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
   - align: right
     image: laura_jones.jpg
-    content: about_person_X.md
+    content: about_laura_jones.md
     image_circular: false # crops the image to make it circular
     more_info: >
       
@@ -68,74 +68,72 @@ profiles:
     more_info: >
 
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: david.PNG
+    content: about_stupksi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+  # - align: right
+  #   image: prof_pic.jpg
+  #   content: about_einstein.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
+  #     <p>555 your office number</p>
+  #     <p>123 your address street</p>
+  #     <p>Your City, State 12345</p>
 
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+  # - align: left
+  #   image: prof_pic.jpg
+  #   content: about_einstein.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
+  #     <p>555 your office number</p>
+  #     <p>123 your address street</p>
+  #     <p>Your City, State 12345</p>
 
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+  # - align: right
+  #   image: prof_pic.jpg
+  #   content: about_einstein.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
+  #     <p>555 your office number</p>
+  #     <p>123 your address street</p>
+  #     <p>Your City, State 12345</p>
 
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+  # - align: left
+  #   image: prof_pic.jpg
+  #   content: about_einstein.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
+  #     <p>555 your office number</p>
+  #     <p>123 your address street</p>
+  #     <p>Your City, State 12345</p>
 
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+  # - align: right
+  #   image: prof_pic.jpg
+  #   content: about_einstein.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
+  #     <p>555 your office number</p>
+  #     <p>123 your address street</p>
+  #     <p>Your City, State 12345</p>
 
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+  # - align: left
+  #   image: prof_pic.jpg
+  #   content: about_einstein.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
+  #     <p>555 your office number</p>
+  #     <p>123 your address street</p>
+  #     <p>Your City, State 12345</p>
+
+  # - align: right
+  #   image: prof_pic.jpg
+  #   content: about_einstein.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
+  #     <p>555 your office number</p>
+  #     <p>123 your address street</p>
+  #     <p>Your City, State 12345</p>
 ---
