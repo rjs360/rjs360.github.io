@@ -63,7 +63,7 @@ profiles:
       
   - align: left
     image: alejandro_final.jpg
-    content: about_person_X.md
+    content: about_alejandro.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
