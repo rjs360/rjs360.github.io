@@ -1,1 +1,1 @@
-generic description
+**Nick Ivers (Postdoctoral Scholar)** - Nick is an ecologist with interests in multi-trophic species interactions, mostly between flowers, bees, and parasites. He received his PhD from the University of Texas at Austin and studied parasitism in bees using both landscape epidemiology and community ecology. Currently, Nick is a postdoc at the University of Texas, Austin.
