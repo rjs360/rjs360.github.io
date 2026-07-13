@@ -48,38 +48,44 @@ profiles:
     content: about_laura_jones.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
+
   - align: left
+    image: Hallmark_photo.jpg
+    content: about_kaleyhallmark.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      
+  - align: right
     image: staci_new.jpg
     content: about_cibotti.md
     image_circular: false # crops the image to make it circular
     more_info: >
       
-  - align: right
+  - align: left
     image: hannah.jpg
     content: about_hannahstewart.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - align: left
+  - align: right
     image: ChingWenTan.jpeg
     content: about_chingweng.md
     image_circular: false # crops the image to make it circular
     more_info: >
       
-  - align: right
+  - align: left
     image: alejandro_final.jpg
     content: about_alejandro.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - align: left
+  - align: right
     image: david.jpg
     content: about_stupski.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - align: right
+  - align: left
     image: Tori_Lake.jpeg
     content: about_toripocius.md
     image_circular: false # crops the image to make it circular

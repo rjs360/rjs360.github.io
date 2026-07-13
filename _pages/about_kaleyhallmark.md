@@ -1,0 +1,1 @@
+**Kaley Hallmark (Graduate Student)** - Kaley was a graduate student co-advised by Drs. Jared Ali and Ruud Schilder, who earned her Master of Science in Ecology from Penn State in December 2022. She studied chemical ecology, focusing on plant-insect interactions, monarch butterfly flight energetics, and migration. 
