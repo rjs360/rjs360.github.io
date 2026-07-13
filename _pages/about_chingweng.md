@@ -1,1 +1,1 @@
-generic description
+**Ching-Wen Tan (Postdoctoral Scholar)** - Ching-Wen was a postdoc in the lab between 2019-2022, co-advised by Drs. Jared Ali and Ruud Schilder. Ching-Wen is currently Assistant Professor in the Department of Entomology, National Chung Hsing University, where her research program focuses on multi-trophic interactions between plants and insects.

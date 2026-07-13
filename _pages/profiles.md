@@ -63,7 +63,7 @@ profiles:
 
   - align: left
     image: ChingWenTan.jpeg
-    content: about_person_X.md
+    content: about_chingweng.md
     image_circular: false # crops the image to make it circular
     more_info: >
       
@@ -76,6 +76,12 @@ profiles:
   - align: left
     image: david.jpg
     content: about_stupski.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: Tori_Lake.jpeg
+    content: about_toripocius.md
     image_circular: false # crops the image to make it circular
     more_info: >
 ---
