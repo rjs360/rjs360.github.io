@@ -1,1 +1,1 @@
-generic description
+**Laura Jones (Graduate student in Ecology)** - Laura was an NSF graduate research fellow and co-advised by Drs. Margarita López-Uribe and Rudolf Schilder. She obtained her B.S. in Biology with a minor in Environmental Studies from Temple University in Philadelphia, PA (USA) in 2018. At Penn State, Laura’s research integrates principles from disease ecology and insect physiology to investigate how disease pressure and climate may impact the thermal tolerance of solitary bees across their range. She received her PhD in 2023.

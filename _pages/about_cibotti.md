@@ -1,1 +1,1 @@
-generic description
+**Staci Cibotti (Graduate Student in Ecology)** - Staci studied how environmental pollutants (insecticides) affect butterfly energetics and flight performance, and interactions with their host plants during larval life. She completed her PhD thesis in 2023 and is currently a pesticide program specialist with the Xerces Society. 
