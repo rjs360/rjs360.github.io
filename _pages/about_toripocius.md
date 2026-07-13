@@ -1,1 +1,1 @@
-generic description
+**Victoria (Tori) Pocius (Postdoctoral Scholar)** - Tori was a postdoctoral scholar in the lab between 2018-2020, co-advised by Drs. Jared Ali and Ruud Schilder. She studied plant-herbivore interactions, focusing on how exposure of monarch butterflies to a variety of milkweed species (as larvae) affect their growth and flight energetics. Tori currently works in Industry.
