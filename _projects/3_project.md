@@ -12,10 +12,10 @@ Temperature is one of the most pervasive physical forces shaping animal life. Be
 A significant portion of research in the lab concerns the thermal biology of insects, with a focus on how temperature affects metabolic rate, locomotor performance, and thermal tolerance, and how these relationships vary across species, life stages, and environmental contexts. We study both how animals respond to acute thermal challenges — such as heat stress or cold exposure — and how they acclimate or adapt to longer-term shifts in temperature. Our work spans taxa including bumble bees, solitary bees, honey bees, monarch butterflies, dragonflies, and salamanders, and we approach these questions using a combination of respirometry, infrared thermography, and behavioral assays.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/bbee_hive_thermal_small.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/honey_bee_hive.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
