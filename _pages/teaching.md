@@ -9,7 +9,7 @@ nav_order: 6
 
 Teaching is a central part of what we do in the Schilder Lab. Our courses span the breadth of animal physiology — from the molecular machinery of insect cells to the ecological and evolutionary pressures that have shaped invertebrate diversity — and share a common emphasis on hands-on, inquiry-driven learning. Whether characterizing invertebrate sensory systems in the lab, sampling insect communities in the Pennsylvania landscape, or designing original experiments to test physiological responses to environmental stress, students in our courses are trained to think and work like scientists. We emphasize the importance of trial-and-error based learning and bring the research interests of the lab directly into the classroom, with recurring themes of energetics, locomotion, stressor physiology, and comparative approaches to animal function woven throughout.
 
-<strong>Currently courses</strong>
+<strong>Current courses</strong><br>
 <em>ENT 410 — Insect Structure & Function (3 credits)</em>
 An exploration of how form meets function in insects — from the physiological systems that power their extraordinary diversity to the genetic and environmental factors that regulate them. Students develop a working understanding of insect physiology and its relationship to ecology and evolution, with particular attention to how insects sense and interact with their environment.
 
@@ -28,7 +28,7 @@ A lecture and laboratory course examining anatomy, energetics, sensory biology, 
     BIOL 457 impressions
 </div>
 
-<strong>Previously courses</strong>
+<strong>Previously taught courses</strong><br>
 <em>BIOL 473 — Laboratory in Mammalian Physiology (2 credits)</em>
 A hands-on laboratory course integrating physiological concepts from the molecular to the organismal level in mammals. Students develop bench skills, engage with primary scientific literature, and practice scientific writing — all while learning to work responsibly with laboratory animals.
 

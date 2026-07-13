@@ -85,9 +85,31 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
 
+   - align: left
+    image: brandon.jpg
+    content: about_gominho.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: lizzz.jpg
+    content: about_lizzwagner.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
   - align: left
     image: Tori_Lake.jpeg
     content: about_toripocius.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Undergraduate lab members</p>
+
+  - align: right
+    content: about_ugrads.md
     image_circular: false # crops the image to make it circular
     more_info: >
 ---
