@@ -1,10 +1,10 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
+permalink: #/people/
+title: #people
 description:
-nav: true
-nav_order: 7
+nav: false
+nav_order: 8
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
