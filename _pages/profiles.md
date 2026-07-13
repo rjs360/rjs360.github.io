@@ -51,23 +51,29 @@ profiles:
       
   - align: left
     image: staci_new.jpg
-    content: about_person_X.md
+    content: about_cibotti.md
     image_circular: false # crops the image to make it circular
     more_info: >
       
   - align: right
+    image: hannah.jpg
+    content: about_hannahstewart.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: left
     image: ChingWenTan.jpeg
     content: about_person_X.md
     image_circular: false # crops the image to make it circular
     more_info: >
       
-  - align: left
+  - align: right
     image: alejandro_final.jpg
-    content: about_person_X.md
+    content: about_alejandro.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - align: right
+  - align: left
     image: david.jpg
     content: about_stupski.md
     image_circular: false # crops the image to make it circular
