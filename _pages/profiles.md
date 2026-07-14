@@ -72,4 +72,9 @@ profiles:
     content: about_stupski.md
     image_circular: false # crops the image to make it circular
     more_info: >
+  - align: left
+    image: brandon.jpg
+    content: about_gominho.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---
