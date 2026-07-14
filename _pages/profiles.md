@@ -18,4 +18,14 @@ profiles:
     content: about_ruud.md
     image_circular: false # crops the image to make it circular
     more_info: >
+  - align: left
+    image: be_picture.jpg
+    content: about_be.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: right
+    image: jules_final.jpg
+    content: about_jules.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---
