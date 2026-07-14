@@ -77,4 +77,9 @@ profiles:
     content: about_gominho.md
     image_circular: false # crops the image to make it circular
     more_info: >
+  - align: right
+    image: lizzz.jpg
+    content: about_lizzwagner.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---
