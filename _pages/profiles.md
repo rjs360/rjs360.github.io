@@ -57,6 +57,11 @@ profiles:
     content: about_hannahstewart.md
     image_circular: false # crops the image to make it circular
     more_info: >
+  - align: left
+    image: Tori_Lake.jpeg
+    content: about_toripocius.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
   - align: right
     image: ChingWenTan.jpeg
     content: about_chingweng.md
