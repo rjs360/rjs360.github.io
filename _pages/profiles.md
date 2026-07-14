@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: current and former members of the lab
 nav: true
 nav_order: 7
 
@@ -57,32 +57,32 @@ profiles:
     content: about_hannahstewart.md
     image_circular: false # crops the image to make it circular
     more_info: >
-  - align: left
+  - align: right
     image: Tori_Lake.jpeg
     content: about_toripocius.md
     image_circular: false # crops the image to make it circular
     more_info: >
-  - align: right
+  - align: left
     image: ChingWenTan.jpeg
     content: about_chingweng.md
     image_circular: false # crops the image to make it circular
     more_info: >
-  - align: left
+  - align: right
     image: alejandro_final.jpg
     content: about_alejandro.md
     image_circular: false # crops the image to make it circular
     more_info: >
-  - align: right
+  - align: left
     image: david.jpg
     content: about_stupski.md
     image_circular: false # crops the image to make it circular
     more_info: >
-  - align: left
+  - align: right
     image: brandon.jpg
     content: about_gominho.md
     image_circular: false # crops the image to make it circular
     more_info: >
-  - align: right
+  - align: left
     image: lizzz.jpg
     content: about_lizzwagner.md
     image_circular: false # crops the image to make it circular
