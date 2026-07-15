@@ -87,6 +87,11 @@ profiles:
     content: about_gominho.md
     image_circular: false # crops the image to make it circular
     more_info: >
+  - align: right
+    image: jess.jpg
+    content: about_jesskurth.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
   - align: left
     image: lizzz.jpg
     content: about_lizzwagner.md
