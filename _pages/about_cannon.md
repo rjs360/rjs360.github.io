@@ -1,0 +1,1 @@
+**Cannon Barnett (Graduate student in Entomology)** - Cannon is an incoming student, starting officially in the Fall of 2026; welcome Cannon!
