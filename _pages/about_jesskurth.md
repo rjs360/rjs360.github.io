@@ -1,0 +1,1 @@
+**Jessica Kurth (Laboratory Technician)** - Dr. Jessica Kurth (PhD in Dr. William Kier's lab at UNC Chapel Hill) was a research technician in the lab between 2015-2016, and currently works in Industry.

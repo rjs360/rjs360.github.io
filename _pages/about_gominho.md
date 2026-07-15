@@ -1,1 +1,1 @@
-**Brandon Gominho (Graduate student in Entomology)** - Brandon was an amazing laboratory technician and M.Sc. student (2016-2018) whose work focused on characterizing molecular stress responses in hawkmoths. Brandon currently work in Industry.
+**Brandon Gominho (Graduate student in Entomology)** - Brandon was an amazing research technician and M.Sc. student (2016-2018) whose work focused on characterizing molecular stress responses in hawkmoths. Brandon currently work in Industry.
